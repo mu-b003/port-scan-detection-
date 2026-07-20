@@ -1,1 +1,3 @@
+Packet capture generated during the Port Scan Detection lab.
 
+The file contains network traffic produced by multiple Nmap scan techniques, including Default Scan, SYN Scan, Version Detection, OS Detection, and Aggressive Scan. Wireshark analysis confirms automated reconnaissance activity through thousands of TCP SYN packets, RST responses, and limited SYN-ACK replies from open ports (22 and 80).

@@ -1,1 +1,3 @@
+Packet capture generated during the Network Traffic Analysis lab.
 
+The file contains normal network activity between the Kali Linux attacker and the Ubuntu Server target, including ICMP, DNS, HTTP, ARP, and TCP traffic. It was used to study protocol behavior, communication patterns, and baseline network activity using Wireshark.
